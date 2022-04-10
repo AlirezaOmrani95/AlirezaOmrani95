@@ -1,6 +1,6 @@
 ### Doroud (درود) - Hello 👋
 
- 😈 My name is Ali Reza but you can call me Ali or Aro. I live in a small city in the south of Iran near the Persian Gulf, which has an amazing beach, and I really love to spend time there and take some images. Needless to say, I have a huge interest in Technology and I also spend too much time in the realm of Computer vision and AI. Honestly, two of my major hobbies are sitting on the beach and taking photos, and working on AI projects.
+ 😈 My name is Ali Reza but you can call me **Ali** or **Aro**. I live in a small city in the south of Iran near the Persian Gulf, which has an amazing beach, and I really love to spend time there and take some images. Needless to say, I have a huge interest in Technology and I also spend too much time in the realm of Computer vision and AI. Honestly, two of my major hobbies are sitting on the beach and taking photos, and working on AI projects.
 
  👨🏻‍💻 I’m currently working on several projects such as **HDR Imaging**, **Image segmentation**, and of course **Autism detection** based on facial images, which I believe is extremely an interesting Project.
 
