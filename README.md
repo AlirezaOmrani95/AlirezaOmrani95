@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on several projects such as **HDR Imaging**, **Image segmentation**, and of Course **Autism detection** based on facial images, which I believe it is extremely an interesting Project.
+- 🔭 I’m currently working on several projects such as **HDR Imaging**, **Image segmentation**, and of Course **Autism detection** based on facial images, which I believe is extremely an interesting Project.
 
 - 📫 How to reach me: 
 -       email: omrani.alireza95@gmail.com
