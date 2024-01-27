@@ -31,7 +31,7 @@
 * **Researcher | 01/2021 - 12/2021**
 
   **Kharazmi University - Tehran, Iran**
-  * Worked on a scientific project called Perceptual Image Super-Resolution. More specifically, I am working on implementing a new loss function called “weighted MSE” to improve Super-Resolution method.
+  * Worked on a scientific project called Perceptual Image Super-Resolution. More specifically, I am working on implementing a new loss function called “weighted MSE” to improve the Super-Resolution method.
 
 ### Education
 * ***BioMedico Rome - Rome, Italy | 11/2021 - Present***
