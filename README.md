@@ -4,6 +4,20 @@
 
  👨🏻‍💻 I’m currently working on several projects such as **HDR Imaging**, **Image segmentation**, **Autism detection** based on facial images using deep learning analyzing the methods using Explainable AI method, and Vocal Stereotypy detection in autistic children, which I believe is extremely an interesting Project.
 
+Skills:
+
+* Machine Learning
+* Deep Learning
+* Transfer Learning
+* Image Processing
+* Computer Vision
+* Audio Processing
+* Pytorch
+* Tensorflow (keras)
+* Python Programming
+* Explainable AI
+
+
  📧 How to reach me: 
 -       email: omrani.alireza95@gmail.com
 -       Linkedin: https://www.linkedin.com/in/alireza-omrani-63003696/
