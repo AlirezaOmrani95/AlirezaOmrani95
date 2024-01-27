@@ -50,11 +50,15 @@
 
   **Associate of Science in Sofware Engineering**
 
- 📧 How to reach me: 
--       email: omrani.alireza95@gmail.com
--       Linkedin: https://www.linkedin.com/in/alireza-omrani-63003696/
--       Research Gate: https://www.researchgate.net/profile/Ali-Reza-Omrani
--       Google Scholar: https://scholar.google.com/citations?user=IlK39SkAAAAJ&hl=en
+ ### 📧 How to reach me: 
+**Email:**
+-       omrani.alireza95@gmail.com
+**Linkedin:**
+-       https://www.linkedin.com/in/alireza-omrani-63003696/
+**Research Gate:**
+-       https://www.researchgate.net/profile/Ali-Reza-Omrani
+**Google Scholar:**
+-       https://scholar.google.com/citations?user=IlK39SkAAAAJ&hl=en
 
  ⚡ Interesting fact: Everything seems difficult until you start working on it.
 
