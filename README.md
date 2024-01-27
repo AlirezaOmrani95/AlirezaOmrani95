@@ -49,11 +49,12 @@
 * ***Mohajer Technical University of Isfahan (MTU) – Isfahan, Iran | 09/2012 - 09/2014***
 
   **Associate of Science in Sofware Engineering**
-  
+
  📧 How to reach me: 
 -       email: omrani.alireza95@gmail.com
 -       Linkedin: https://www.linkedin.com/in/alireza-omrani-63003696/
 -       Research Gate: https://www.researchgate.net/profile/Ali-Reza-Omrani
+-       Google Scholar: https://scholar.google.com/citations?user=IlK39SkAAAAJ&hl=en
 
  ⚡ Interesting fact: Everything seems difficult until you start working on it.
 
