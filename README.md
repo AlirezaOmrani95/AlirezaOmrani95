@@ -4,7 +4,7 @@
 
  👨🏻‍💻 I’m currently working on several projects such as **HDR Imaging**, **Image segmentation**, **Autism detection** based on facial images using deep learning analyzing the methods using Explainable AI method, and Vocal Stereotypy detection in autistic children, which I believe is extremely an interesting Project.
 
-Skills:
+### Skills:
 
 * Machine Learning
 * Deep Learning
@@ -17,7 +17,7 @@ Skills:
 * Python Programming
 * Explainable AI
 
-Experiences:
+### Experiences:
 * **Visiting Research | 12/2023 - 08/2024**
 
   **University of Montreal - Montreal, Canada**
@@ -32,7 +32,24 @@ Experiences:
 
   **Kharazmi University - Tehran, Iran**
   * Worked on a scientific project called Perceptual Image Super-Resolution. More specifically, I am working on implementing a new loss function called “weighted MSE” to improve Super-Resolution method.
- 
+
+### Education
+* ***BioMedico Rome - Rome, Italy | 11/2021 - Present***
+
+  **Ph.D. in Artificial Intelligence**
+
+* ***Kharazmi University - Tehran, Iran | 09/2017 - 09/2020***
+  
+  **Master of Science in Artificial Intelligence**
+
+* ***Bahonar Technical and Vocational College – Shiraz, Iran | 01/2015 - 09/2016***
+
+  **Bachelor of Science in Software Engineering**
+
+* ***Mohajer Technical University of Isfahan (MTU) – Isfahan, Iran | 09/2012 - 09/2014***
+
+  **Associate of Science in Sofware Engineering**
+  
  📧 How to reach me: 
 -       email: omrani.alireza95@gmail.com
 -       Linkedin: https://www.linkedin.com/in/alireza-omrani-63003696/
