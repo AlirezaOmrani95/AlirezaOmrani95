@@ -17,7 +17,22 @@ Skills:
 * Python Programming
 * Explainable AI
 
+Experiences:
+* **Visiting Research | 12/2023 - 08/2024**
 
+  **University of Montreal - Montreal, Canada**
+  * Doing research in the field of Audio Processing to detect vocal stereotypy in autistic children, using Transfer Learning.
+* **Researcher | 06/2022 - Present**
+
+  **SI-Lab in ISTI Department of National Research Council – Pisa, Italy**
+  * Performed research in High Dynamic Range Imaging.
+  * Worked on Facial recognition for distinguishing autistic children and used Explainable AI to analyze the results.
+  * Doing research in the field of Audio Processing to detect vocal stereotypy in autistic children, using Transfer Learning
+* **Researcher | 01/2021 - 12/2021**
+
+  **Kharazmi University - Tehran, Iran**
+  * Worked on a scientific project called Perceptual Image Super-Resolution. More specifically, I am working on implementing a new loss function called “weighted MSE” to improve Super-Resolution method.
+ 
  📧 How to reach me: 
 -       email: omrani.alireza95@gmail.com
 -       Linkedin: https://www.linkedin.com/in/alireza-omrani-63003696/
