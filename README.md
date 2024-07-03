@@ -18,7 +18,7 @@
 * Explainable AI
 
 ### Experiences:
-* **Visiting Research | 12/2023 - 08/2024**
+* **Visiting Research | 12/2023 - 05/2024**
 
   **University of Montreal - Montreal, Canada**
   * Doing research in the field of Audio Processing to detect vocal stereotypy in autistic children, using Transfer Learning.
