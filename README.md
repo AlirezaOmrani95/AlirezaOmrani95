@@ -18,23 +18,39 @@
 * Explainable AI
 
 ### Experiences:
-* **Visiting Research | 12/2023 - 05/2024**
-
-  **University of Montreal - Montreal, Canada**
-  * Doing research in the field of Audio Processing to detect vocal stereotypy in autistic children, using Transfer Learning.
 * **Researcher | 06/2022 - Present**
 
   **SI-Lab in ISTI Department of National Research Council – Pisa, Italy**
-  * Performed research in High Dynamic Range Imaging.
-  * Worked on Facial recognition for distinguishing autistic children and used Explainable AI to analyze the results.
-  * Doing research in the field of Audio Processing to detect vocal stereotypy in autistic children, using Transfer Learning
+  * Developed and designed HDR imaging models using image segmentation and hyperparameter tuning from scratch.
+  *  Implemented facial recognition and audio processing models to distinguish autistic children using Vision Transformers (ViT), Explainable AI, and transfer learning techniques.
+  *  Developed user-friendly software for psychologists with no knowledge of coding to use a machine learning model.
+  *  Implementing deep neural network in 3D Joint Skeleton to recognize Movement Stereotypy.
+
+* **Visiting Research | 12/2023 - 05/2024**
+
+  **University of Montreal - Montreal, Canada**
+  * Researched vocal stereotypy detection in autistic children’s audio, addressing imbalanced data with preprocessing and normalization techniques.
+  * Applied transfer learning on various models, including Vision Transformers (ViT), to enhance performance.
+  * Developed user-friendly software for our vocal stereotypy model for practitioners and psychologists.
+  * Worked with a multidisciplinary and multicultural team.
+
 * **Researcher | 01/2021 - 12/2021**
 
   **Kharazmi University - Tehran, Iran**
-  * Worked on a scientific project called Perceptual Image Super-Resolution. More specifically, I am working on implementing a new loss function called “weighted MSE” to improve the Super-Resolution method.
+  * Conducted research on Super-Resolution Imaging, specifically on the project titled ”Perceptual Image Super Resolution”.
+  * Developed and implemented a new weighted Mean Squared Error (MSE) loss function to improve edge detection in the super-resolution process.
+  * Contributed to the field of image processing by focusing on enhancing the quality of upscaled images.
+ 
+* **Teacher Assistant | 01/2019 - 09/2020**
+
+  **Kharazmi University - Tehran, Iran**
+  * Worked as a teacher assistant for the Artificial Neural Network Course for four semesters.
+  * Led the TA team, coordinating and overseeing the work of other assistants.
+  * worked as a teacher assistant for the Machine Learning Course for one semester.
+  * Provided students with hands-on projects to enhance their practical understanding of Artificial Neural Networks and Machine Learning.
 
 ### Education
-* ***BioMedico Rome - Rome, Italy | 11/2021 - Present***
+* ***BioMedico Rome - Rome, Italy | 11/2021 - 12/2024***
 
   **Ph.D. in Artificial Intelligence**
 
