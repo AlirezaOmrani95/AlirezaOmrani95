@@ -1,18 +1,18 @@
 ### Doroud (درود) - Hello 👋
 
- 😈 My name is Ali Reza, but you can call me **Ali** or **Aro**. I was born in a small city in the south of Iran near the Persian Gulf, which has an amazing beach, and I loved to spend time there and take some images. Currently, I'm a researcher at SI-Lab at the Institute of Information Science and Technologies (ISTI) of the Italian National Research Council (CNR) in Pisa, Italy. Additionally, I did my visiting research at the Lanovaz Lab at the University of Montreal. Needless to say, I'm an organized, motivated Artificial intelligence advocate who is eager to learn more. I have been trying to do my best in Academia for the past 5 years and have worked in the realm of Image, Audio Processing, and Large Language Models.
+My name is Ali Reza, but you can call me **Ali** or **Aro**. I was born in a small city in southern Iran near the Persian Gulf, known for its beautiful beaches, where I always enjoyed visiting and photographing. Currently, I'm a researcher at SI-Lab, part of the Institute of Information Science and Technologies (ISTI) at the Italian National Research Council (CNR) in Pisa, Italy. I also had the opportunity to conduct  visiting research at the Lanovaz Lab at the University of Montreal. 
 
- 👨🏻‍💻 I’m currently working on several projects such as **HDR Imaging**, **Image segmentation**, **Autism detection** based on facial images using deep learning analyzing the methods using Explainable AI method, and Vocal Stereotypy detection in autistic children, which I believe is extremely an interesting Project.
-
+As an enthusiastic advocate for Artificial Intelligence, I’m constantly driven to learn and explore more in the field. Over the past five years, I’ve been deeply involved in academic research, working across a range of areas including computer vision, audio processing, and large language models.
 
 ### Experiences:
 * **Researcher | 06/2022 - Present**
 
   **SI-Lab in ISTI Department of National Research Council – Pisa, Italy**
-  * Developed and designed HDR imaging models using image segmentation and hyperparameter tuning from scratch.
-  *  Implemented facial recognition and audio processing models to distinguish autistic children using Vision Transformers (ViT), Explainable AI, and transfer learning techniques.
-  *  Developed user-friendly software for psychologists with no knowledge of coding to use a machine learning model.
-  *  Implementing deep neural network in 3D Joint Skeleton to recognize Movement Stereotypy.
+  * Developed and designed innovative HDR imaging models using image segmentation and hyperparameter tuning from scratch.
+  * Implemented facial recognition and audio processing models to distinguish autistic children using Vision Transformers (ViT), Explainable AI, and transfer learning techniques.
+  * Developed user-friendly software for psychologists with no knowledge of coding to use a machine learning model.
+  * Implementing deep neural networks in the 3D Joint Skeleton to recognize Movement Stereotypy.
+  * Used LLM models for text and image data extraction, applying LLMs to process and extract meaningful features, integrating outputs into other systems, and developing systems to interpret and integrate text and image data.
 
 * **Visiting Research | 12/2023 - 05/2024**
 
@@ -37,10 +37,23 @@
   * Worked as a teacher assistant for the Machine Learning Course for one semester.
   * Provided students with hands-on projects to enhance their practical understanding of Artificial Neural Networks and Machine Learning.
 
- ### 📧 How to reach me: 
+### Projects
+#### Current Projects
+ * **LLM HR Assistant**
+  Developing a multi-agent and multi-platform system that leverages NLP-based techniques and Large Language Models (LLMs) to compute and analyze the semantic similarity between candidate CVs and job postings, aiming to assess relevance and guide resume tailoring.
+ * **Movement Stereotypy Classification**  
+  Developing a Deep Learning model to analyze and classify movement stereotypy in autistic children by interpreting sequences of 3D joint skeleton data, capturing their body movements, and identifying specific movement patterns indicative of stereotypy.
+
+#### Finished Projects
+* **Vocal Stereotypy Detection**
+* **Explainable AI for Autism Detection**
+* **HDR Imaging with Visual Attention Modules**
+* **Supervised Image Segmentation for HDR Imaging**
+
+### 📧 How to reach me: 
 **Email:**
 -       omrani.alireza95@gmail.com
-**Linkedin:**
+**LinkedIn:**
 -       https://www.linkedin.com/in/alireza-omrani-63003696/
 **Research Gate:**
 -       https://www.researchgate.net/profile/Ali-Reza-Omrani
