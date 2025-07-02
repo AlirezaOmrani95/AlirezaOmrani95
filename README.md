@@ -62,13 +62,19 @@ Aimed to detect the most visible areas using image segmentation. Trained neural 
 
 ### 📧 How to reach me: 
 **Email:**
--       omrani.alireza95@gmail.com
+
+       omrani.alireza95@gmail.com
+
 **LinkedIn:**
--       https://www.linkedin.com/in/alireza-omrani-63003696/
+
+       https://www.linkedin.com/in/alireza-omrani-63003696/
 **Research Gate:**
--       https://www.researchgate.net/profile/Ali-Reza-Omrani
+
+       https://www.researchgate.net/profile/Ali-Reza-Omrani
+
 **Google Scholar:**
--       https://scholar.google.com/citations?user=IlK39SkAAAAJ&hl=en
+
+       https://scholar.google.com/citations?user=IlK39SkAAAAJ&hl=en
 
  ⚡ Interesting fact: Everything seems difficult until you start working on it.
 
