@@ -46,9 +46,13 @@ As an enthusiastic advocate for Artificial Intelligence, I’m constantly driven
 
 #### Finished Projects
 * **Vocal Stereotypy Detection**
+  Developed a deep learning model that measures vocal stereotypy with high accuracy and a strong correlation with human observations, reducing the need for human observers. Also implemented a software that works as a user interface for the model.
 * **Explainable AI for Autism Detection**
+  Developed a deep learning model to distinguish autistic from non autistic children, based on one facial image. Moreover, explainable AI methods were used to enhance the model’s transparency and interpretability.
 * **HDR Imaging with Visual Attention Modules**
+  Developed a novel deep learning model using a Visual Attention Module (VAM) to highlight the most visible areas of each image, outperforming most existing SOTA algorithms. The novelty of this project is the use of the image segmentation concept in image reconstruction.
 * **Supervised Image Segmentation for HDR Imaging**
+  Aimed to detect the most visible areas using image segmentation. Trained neural networks to segment the visible parts of images effectively.
 
 ### 📧 How to reach me: 
 **Email:**
